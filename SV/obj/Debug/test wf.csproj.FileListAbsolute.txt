@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\test wf\test wf\bin\Debug\test wf.exe.config
+C:\Users\User\source\repos\test wf\test wf\bin\Debug\test wf.exe
+C:\Users\User\source\repos\test wf\test wf\bin\Debug\test wf.pdb
+C:\Users\User\source\repos\test wf\test wf\obj\Debug\test wf.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\test wf\test wf\obj\Debug\Interop.Shell32.dll
+C:\Users\User\source\repos\test wf\test wf\obj\Debug\test wf.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\test wf\test wf\obj\Debug\test_wf.Form1.resources
+C:\Users\User\source\repos\test wf\test wf\obj\Debug\test_wf.Properties.Resources.resources
+C:\Users\User\source\repos\test wf\test wf\obj\Debug\test wf.csproj.GenerateResource.cache
+C:\Users\User\source\repos\test wf\test wf\obj\Debug\test wf.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\test wf\test wf\obj\Debug\test wf.exe
+C:\Users\User\source\repos\test wf\test wf\obj\Debug\test wf.pdb
+C:\Users\User\source\repos\test wf\test wf\obj\Debug\test wf.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\test wf\test wf\obj\Debug\test_wf.Form2.resources
+C:\Users\User\source\repos\test wf\test wf\obj\Debug\test_wf.Form3.resources
+C:\Users\User\source\repos\test wf\test wf\obj\Debug\test_wf.Form4.resources
